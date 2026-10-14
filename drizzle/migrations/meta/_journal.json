@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791988930281,
+      "tag": "0000_create_syna_block_1_schema",
+      "breakpoints": true
+    }
+  ]
+}
